@@ -1,4 +1,3 @@
-<br>
 
 ### 👋 Hi. Welcome to my GitHub
   
@@ -30,6 +29,7 @@
 
 *	Operating Systems : 
 <img src="https://img.shields.io/badge/Linux-FCC624?&style=flat-square&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?&style=flat-square&logo=ubuntu&logoColor=white" /> <img src="https://img.shields.io/badge/Windows-0078D6?&style=flat-square&logo=windows&logoColor=white" />
+<br>
 <br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=susooo&show_icons=true&theme=dark)
