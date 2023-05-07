@@ -6,7 +6,7 @@
   🤔 Lately, I've been interested in <b>medical artificial intelligence and MLOps</b> <br>
   📫 Nice way to meet me
 <p>
-  <a href=""><img src="https://img.shields.io/badge/Tistory-%23000000.svg?&style=flat-square&logo=tistory&logoColor=white" />
+  <a href="https://sooh-official.tistory.com/"><img src="https://img.shields.io/badge/Tistory-%23000000.svg?&style=flat-square&logo=tistory&logoColor=white" />
   <a href="mailto:suhyeon.k.officia@gmail.com"><img src="https://img.shields.io/badge/suhyeon.k.officia@gmail.com-%23000000.svg?style=flat-square&logo=Gmail&logoColor=white"/></a>
 </p>
 <br>
