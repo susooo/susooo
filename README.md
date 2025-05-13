@@ -1,5 +1,4 @@
 <br>
-<br>
 
 <!-- Header -->
 <h2 align="center">👋 Hi. Welcome to my GitHub</h2>
@@ -35,5 +34,4 @@
 *	Operating Systems:
 <img src="https://img.shields.io/badge/Linux-FCC624?&style=flat-square&logo=linux&logoColor=white" /> <img src="https://img.shields.io/badge/Ubuntu-E95420?&style=flat-square&logo=ubuntu&logoColor=white" />
 
-<br>
 <br>
