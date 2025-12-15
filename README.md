@@ -4,7 +4,7 @@
 <h2 align="center">👋 Hi. Welcome to my GitHub</h2>
 <p align="center">
   
-  🎓 I graduated with a Bachelor's degree in Software Engineering at University <br>
+  🎓 I graduated with a Bachelor's degree in Software Engineering at Ajou University <br>
   🔧 I enjoy building scalable **backend systems** and automating workflows with **DevOps tools** <br>
   🧠 I'm especially interested in **medical AI**, and I'm aiming to build a career focused on **MLOps** <br>
   📫 Always happy to connect with like-minded developers – feel free to reach out!
