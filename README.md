@@ -11,10 +11,11 @@ Building with AI, learning how to turn ideas into systems.
 AI · LLM · MLOps · Backend
 
 <br>
-
+· · · 
 <div align="center">
 
-## What I'm interested in
+### What I'm interested in
+
 <br>
 
 🤖 **AI / ML** — Exploring machine learning and deep learning
@@ -28,10 +29,10 @@ AI · LLM · MLOps · Backend
 <br>
 
 </div>
-
+· · · 
 <div align="center">
 
-##  Tech Stack
+###  Tech Stack
 
 ### AI / ML
 
@@ -56,8 +57,6 @@ AI · LLM · MLOps · Backend
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 
-<br/><br/>
-
-
+<br/>
 
 <br>
